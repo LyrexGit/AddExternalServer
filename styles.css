@@ -1,5 +1,5 @@
 div.title {
-  color: #4acaa8;
+  color: #6A58D8;
   font-size: 1.5em;
   font-weight: 700;
   line-height: 1em;
@@ -94,5 +94,5 @@ table {
 hr {
   height: 3px;
   border: none;
-  border-top: 3px #e3e3e3 solid;
+  border-top: 3px #6A58D8 solid;
 }
